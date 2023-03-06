@@ -6,6 +6,8 @@
 <!---<img src="http://25.media.tumblr.com/tumblr_m8kuxjuJcg1qdemqzo1_400.gif" alt="" style="width:400px; float:right; ">
 ---->
 
+<h3 align="left">About me:</h3>
+
 - 🌱 I’m currently learning **Artificial intelligence and data science**
 
 - 💬 Ask me about **Python & HTML**
